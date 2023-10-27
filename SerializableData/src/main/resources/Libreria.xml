@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libreria>
+    <ListaLibro>
+        <Libro>
+            <autor>Autor1</autor>
+            <nombre>Libro1</nombre>
+            <editorial>Editorial1</editorial>
+            <isbn>isbn1</isbn>
+        </Libro>
+        <Libro>
+            <autor>Autor2</autor>
+            <nombre>Libro2</nombre>
+            <editorial>Editorial2</editorial>
+            <isbn>isbn2</isbn>
+        </Libro>
+    </ListaLibro>
+    <lugar>Uvieu</lugar>
+    <nombre>LibreriaJAXB</nombre>
+</libreria>
