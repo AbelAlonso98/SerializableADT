@@ -1,4 +1,4 @@
-package UD1;
+package exercisesXStream;
 
 import java.io.EOFException;
 import java.io.File;

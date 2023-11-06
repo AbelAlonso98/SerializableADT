@@ -1,4 +1,4 @@
-package UD1;
+package exercisesXStream;
 
 import java.util.ArrayList;
 import java.util.List;

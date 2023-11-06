@@ -1,4 +1,4 @@
-package UD1;
+package exercisesXStream;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
